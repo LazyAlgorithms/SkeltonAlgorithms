@@ -2,7 +2,7 @@
   <img src="Assets/logo.png">
 </p>
 
-# 💀 Codes:
+## 💀 Codes
 
 There is always a pattren that emerges when you do something repeatedly, well here are the pattrens some of the top algorithms such as divide and conquer,
 BFS, DFS.... Etc
