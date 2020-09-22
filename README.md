@@ -1,4 +1,6 @@
-![](Assets/logo.png)
+<p align="center">
+  <img src="Assets/logo.png">
+</p>
 
 # Skelton 
 
